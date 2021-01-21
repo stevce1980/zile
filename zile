@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Yugoslavia" tvg-logo="http://340px-Flag-map_of_Yugoslavia.svg.png" group-title="Yugoslavia",Yugoslavia
 #EXTINF:-1 ,YU001:24 Kitchen
 http://a1.gokakka.club:8880/testzyx030/123456789/49325
 #EXTINF:-1 ,YU002:Al Jazeera Balkan
